@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimbleRabbit", "src\NimbleRabbit\NimbleRabbit.csproj", "{FAF2BF1E-560A-4A1A-BE87-E4914384A11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimbleRabbit.Core", "src\NimbleRabbit.Core\NimbleRabbit.Core.csproj", "{3828CF94-21C7-4010-892F-DA2E253946BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimbleRabbit.Tests", "test\NimbleRabbit.Tests\NimbleRabbit.Tests.csproj", "{42109244-3F10-4CCF-9847-B2D2CEE8DCC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF2BF1E-560A-4A1A-BE87-E4914384A11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF2BF1E-560A-4A1A-BE87-E4914384A11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF2BF1E-560A-4A1A-BE87-E4914384A11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF2BF1E-560A-4A1A-BE87-E4914384A11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3828CF94-21C7-4010-892F-DA2E253946BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3828CF94-21C7-4010-892F-DA2E253946BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3828CF94-21C7-4010-892F-DA2E253946BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3828CF94-21C7-4010-892F-DA2E253946BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42109244-3F10-4CCF-9847-B2D2CEE8DCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42109244-3F10-4CCF-9847-B2D2CEE8DCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42109244-3F10-4CCF-9847-B2D2CEE8DCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42109244-3F10-4CCF-9847-B2D2CEE8DCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
